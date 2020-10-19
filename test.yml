@@ -1,10 +1,6 @@
 name: Paul
 age: 28
-<<<<<<< Updated upstream
-address: "adsad: 2131233"
-=======
 address: "adsad: 12321312"
->>>>>>> Stashed changes
 active: true
 key:
     key: value
